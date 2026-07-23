@@ -1,1 +1,21 @@
 D flip flop
+
+=== D_FlipFlop ===
+
+   Number of wires:                  3
+
+   Number of wire bits:              3
+   
+   Number of public wires:           3
+   
+   Number of public wire bits:       3
+   
+   Number of memories:               0
+   
+   Number of memory bits:            0
+   
+   Number of processes:              0
+   
+   Number of cells:                  1
+   
+     $_DFF_P_                        1
