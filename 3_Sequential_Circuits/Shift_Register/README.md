@@ -18,5 +18,4 @@ Shift register
    
    Number of cells:                  4
 
-     $_DFF_P_                        4
-
+   Dff:                              4
