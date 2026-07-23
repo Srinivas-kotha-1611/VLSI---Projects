@@ -3,12 +3,20 @@ Shift register
 === Shift_Register ===
 
    Number of wires:                  3
+   
    Number of wire bits:              6
+   
    Number of public wires:           3
    
    Number of public wire bits:       6
+   
    Number of memories:               0
+   
    Number of memory bits:            0
+   
    Number of processes:              0
+   
    Number of cells:                  4
+
      $_DFF_P_                        4
+
